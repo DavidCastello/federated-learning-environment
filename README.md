@@ -1,4 +1,5 @@
 ### Federated Learning environment 
+Audio Classification
 
 ## Run a local simulation
 This is an experimental project. It runs a server and N=6 clients within a local machine.
@@ -40,7 +41,7 @@ python3 main.py
 - To test non-IID data scenarios, use `main-noniid.py` with a custom data distribution algorithm. It is prepared to use a public dataset to balance non-IID data across clients.
  
 
-
+Author: David Castelló Tejera
 
 
 
